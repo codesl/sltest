@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{F4EE3873-4195-424A-AD23-13F819DA79EA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApplication1", "WindowsFormsApplication1\WindowsFormsApplication1.csproj", "{7C37233F-EB03-4C37-93A4-36E3A312FBE7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1Project", "ClassLibrary1Project\ClassLibrary1Project.csproj", "{93EBBB50-0AAF-4194-82AB-F0FC977ACFC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +22,10 @@ Global
 		{7C37233F-EB03-4C37-93A4-36E3A312FBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C37233F-EB03-4C37-93A4-36E3A312FBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C37233F-EB03-4C37-93A4-36E3A312FBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93EBBB50-0AAF-4194-82AB-F0FC977ACFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EBBB50-0AAF-4194-82AB-F0FC977ACFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EBBB50-0AAF-4194-82AB-F0FC977ACFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EBBB50-0AAF-4194-82AB-F0FC977ACFC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
